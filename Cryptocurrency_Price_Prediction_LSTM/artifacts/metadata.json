@@ -1,0 +1,12 @@
+{
+    "ticker": "BTC-USD",
+    "rmse": 26365.43070006633,
+    "mae": 21372.068359375,
+    "mape_percent": 21.384859085083008,
+    "r2": -0.9058248996734619,
+    "directional_accuracy_percent": 50.0,
+    "naive_rmse": 1876.2947682539825,
+    "naive_mae": 1335.4592063210227,
+    "relative_mae_difference_percent": -1500.3535157207566,
+    "generated_at": "2026-09-20T12:01:32.692302"
+}
